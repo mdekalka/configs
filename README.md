@@ -14,8 +14,9 @@ Select **File** > **Preferences** > **User Settings** (or press **Ctrl+Shift+P**
     "locale": "en",
     "editor.wordWrap": true,
     "editor.renderWhitespace": true,
-    "editor.fontFamily": "Consolas",
-    "editor.fontSize": 16,
+    "editor.fontFamily": "Droid Sans Mono",
+    "editor.lineHeight": 22px,
+    "editor.fontSize": 15
 }
 ```
 
