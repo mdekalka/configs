@@ -2,7 +2,11 @@
 
 ## Visual Studio Code
 
+<<<<<<< 21cd26268a4a1827054330120c113829729e4a2b
 [Official website][VSC]
+=======
+[Official website][VSC]    
+>>>>>>> First config file
 [VSC features post][VSC-features]
 
 ### User settings config
